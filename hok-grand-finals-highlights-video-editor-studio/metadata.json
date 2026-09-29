@@ -1,0 +1,6 @@
+{
+  "name": "HOK Grand Finals Highlights Video Editor Studio",
+  "description": "Broadcast-grade animated graphics and lower thirds generator for Honor of Kings Grand Finals highlight reels with green screen chromakey, player cards, score bugs, and WebM/GIF exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
